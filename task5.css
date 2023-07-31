@@ -1,0 +1,16 @@
+#a,#b,#c,#d,#e,#f,#g{
+    width: 137px;
+    height: 170px;
+    padding: 10px;
+}
+#a:hover,#b:hover,#c:hover,#d:hover,#e:hover,#f:hover,#g:hover{
+    transform: scale(1.2); 
+}
+h2{
+    text-align: center;
+}
+div{
+    background-color:yellowgreen;
+    padding: 30px;
+    
+}
