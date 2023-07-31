@@ -1,0 +1,29 @@
+.flex-container {
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .flex-container > div{
+    background-color:lawngreen;
+    width: 200px;
+    margin: 10px;
+    text-align: center;
+    line-height: 60px;
+    font-size: 30px;
+  }
+  #id1{
+    background-color: blueviolet;
+    height: 150px;
+  }
+  #id2{
+    background-color: chartreuse;
+    height: 220px;
+  }
+  #id3{
+    background-color: darkred;
+    height: 190px;
+  }
+  h2{
+    text-align: center;
+  }
