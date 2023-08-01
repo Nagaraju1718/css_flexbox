@@ -1,0 +1,32 @@
+.parent{
+    background-color:turquoise;
+    position: relative;
+    height: 580px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#img1{
+    position:absolute;
+    right: 10px;
+    top: 10px;
+    width: 210px;
+    height: 150px;
+    
+}
+#para1{
+    position: absolute;
+    height: 130px;
+    width: 540px;
+    bottom: 15px;
+    left: 15px;
+    background-color: brown;
+}
+#para2{
+    height: 130px;
+    width: 540px;
+    background-color: chartreuse;
+    position: absolute;
+    text-align: center;
+}
